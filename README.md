@@ -1,1 +1,1 @@
-# taski-docker
+Деплой проекта Taski через Docker
