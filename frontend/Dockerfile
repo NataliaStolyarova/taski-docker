@@ -1,4 +1,5 @@
-FROM node:18
+# FROM node:18
+FROM node:slim
 WORKDIR /app
 
 COPY package.json package.json
